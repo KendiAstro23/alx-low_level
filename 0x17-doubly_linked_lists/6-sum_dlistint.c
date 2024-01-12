@@ -3,7 +3,7 @@
 /**
  * sum_dlistint - performs sum of data
  * @head: head first
- * Return: sum 
+ * Return: sum
  */
 int sum_dlistint(dlistint_t *head)
 {
